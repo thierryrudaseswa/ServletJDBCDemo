@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\truda\Desktop\eclipse-java-workspaces\workspace1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2711701836.index
+3795124644.index
+4255899478.index
+2891118581.index
+2846056199.index
+399704966.index
+598477439.index
